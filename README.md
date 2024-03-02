@@ -8,7 +8,7 @@
 
 ## Repositories I would like to share
 
-### [RBM-Recommender](https://github.com/H4D32/RBM-Recommender)
+### [RBM-Recommender | ML, Python](https://github.com/H4D32/RBM-Recommender)
 Simulation of the Netflix problem || Predictive Model: Unraveling Movie Ratings with RBM-Based Collaborative Filtering
 
 #### Please take a look at my other repositories below! 
