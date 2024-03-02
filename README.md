@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: alaeeddinenasr@gmail.com 
 - 🌱 I’m currently learning Data engineering, Software and Systems all under CUHK-SZ's CompSci&Eng Major
-- 🔭 I’m currently working on a Project Optimizing Compliers for Machine Learning (Broadening [IREE](https://github.com/openxla/iree) Compatibility for Enhanced Performance) 
+- 🔭 I’m currently working on a [Project](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/H4D32/H4D32/main/docs/Capstone-Proposal.pdf) Optimizing Compliers for Machine Learning (Broadening [IREE](https://github.com/openxla/iree) Compatibility for Enhanced Performance) 
 
 ## Repositories I would like to share
 
