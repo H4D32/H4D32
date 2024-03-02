@@ -5,6 +5,7 @@
 ## Repositories I would like to share
 
 ### [RBM-Recommender](https://github.com/H4D32/RBM-Recommender)
+Simulation of the Netflix problem || Predictive Model: Unraveling Movie Ratings with RBM-Based Collaborative Filtering
 
 <!--
 **H4D32/H4D32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
