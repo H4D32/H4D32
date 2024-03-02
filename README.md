@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=H4D32&theme=swift) 
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=H4D32&theme=swift&layout=compact)
+
+## Repositories I would like to share
+
 <!--
 **H4D32/H4D32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
